@@ -1,3 +1,8 @@
+# Description
+Projeto feito com base no curso "Dispondo elementos com Flexbox e Grid" na Alura, ministrado pelo Matheus Alberto.
+
+A página Home foi desenvolvida juntamente com o professor, já as demais foram feitas individualmente com base no projeto no figma.
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
